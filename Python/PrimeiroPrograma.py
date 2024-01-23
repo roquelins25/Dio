@@ -1,6 +1,6 @@
-print("hello Word!")
+print("hello World!")
 print("Ola mundo, Seja bem vindo ao curso de Python")
 
-vHelloWord = input("Hello Word!")
+vHelloWorld = input("Hello World!")
 
-print(vHelloWord)
+print(vHelloWorld)
